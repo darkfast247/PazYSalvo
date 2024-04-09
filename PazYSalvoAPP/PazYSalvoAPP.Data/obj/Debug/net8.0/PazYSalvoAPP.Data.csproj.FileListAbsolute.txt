@@ -1,0 +1,14 @@
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\bin\Debug\net8.0\PazYSalvoAPP.Data.deps.json
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\bin\Debug\net8.0\PazYSalvoAPP.Data.runtimeconfig.json
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\bin\Debug\net8.0\PazYSalvoAPP.Data.dll
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\bin\Debug\net8.0\PazYSalvoAPP.Data.pdb
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\PazYSalvoAPP.Data.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\PazYSalvoAPP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\PazYSalvoAPP.Data.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\PazYSalvoAPP.Data.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\PazYSalvoAPP.Data.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\PazYSalvoAPP.Data.dll
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\refint\PazYSalvoAPP.Data.dll
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\PazYSalvoAPP.Data.pdb
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\PazYSalvoAPP.Data.genruntimeconfig.cache
+C:\Users\Santiago\source\repos\PazYSalvoAPP\PazYSalvoAPP.Data\obj\Debug\net8.0\ref\PazYSalvoAPP.Data.dll

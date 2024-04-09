@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\mediosdepago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\mediosdepago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\mediosdepagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\mediosdepagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\servicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\servicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\pago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\pago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97377C4E-74FB-4867-A194-4E10D2F5A2D4}|PazYSalvoAPP.Data\\PazYSalvoAPP.Data.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.data\\pazysalvoapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97377C4E-74FB-4867-A194-4E10D2F5A2D4}|PazYSalvoAPP.Data\\PazYSalvoAPP.Data.csproj|solutionrelative:pazysalvoapp.data\\pazysalvoapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|c:\\users\\santiago\\source\\repos\\pazysalvoapp\\pazysalvoapp.layer\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B25313-4F6D-4B05-B94C-EC497E18C0C3}|PazYSalvoAPP.Layer\\PazYSalvoAPP.Layer.csproj|solutionrelative:pazysalvoapp.layer\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Data\\Context\\PazSalvoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PazYSalvoAPP.Data\\Context\\PazSalvoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:50:14.233Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\FacturaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:53:01.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Servicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Servicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Servicio\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Servicio\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:45:54.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\ServicioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:45:44.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:44:59.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:44:45.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Pago\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Pago\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Pago\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Pago\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:43:22.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\PagoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:43:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediosDePagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\MediosDePagoController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\MediosDePagoController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\MediosDePagoController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\MediosDePagoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:34:32.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\MediosDePago\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\MediosDePago\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\MediosDePago\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\MediosDePago\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:34:50.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:46:33.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:46:52.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Estado\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Estado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Estado\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Estado\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:41:40.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\EstadoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:41:29.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Program.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Program.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:37:19.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:22:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:19:44.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:19:32.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PazYSalvoAPP.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Data\\PazYSalvoAPP.Data.csproj",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Data\\PazYSalvoAPP.Data.csproj",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Data\\PazYSalvoAPP.Data.csproj",
+              "RelativeToolTip": "PazYSalvoAPP.Data\\PazYSalvoAPP.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T17:46:32.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Factura\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Factura\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Factura\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Factura\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:54:41.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\appsettings.json",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T17:29:28.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Layer\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Layer\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.Layer\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:22:41.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PazSalvoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Data\\Context\\PazSalvoContext.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Data\\Context\\PazSalvoContext.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\PazYSalvoAPP\\PazYSalvoAPP.Data\\Context\\PazSalvoContext.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Data\\Context\\PazSalvoContext.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:27:35.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
